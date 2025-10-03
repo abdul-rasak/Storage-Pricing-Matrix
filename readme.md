@@ -25,7 +25,7 @@
   ## Installation
 
    - Clone the repository:
-            git clone <repository-url>
+            git clone <https://github.com/abdul-rasak/Storage-Pricing-Matrix.git>
 
    - Navigate to the project directory:
             cd STORAGE PRICING MATRIX
